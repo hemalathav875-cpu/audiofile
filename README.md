@@ -1,8 +1,6 @@
 # Ex.No:3 Develop a simple application to play and control the audio file in android studio.
 
-
 ## AIM:
-
 To develop a simple application, to play and control the audio file and to perfrom the start,pause and stop opeartion in Android Studio.
 
 ## EQUIPMENTS REQUIRED:
@@ -10,7 +8,6 @@ To develop a simple application, to play and control the audio file and to perfr
 Android Studio(Min.required Artic Fox)
 
 ## ALGORITHM:
-
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as audiofile and click Next. 
@@ -35,7 +32,6 @@ Registeration Number :212225230099
 ```
 ## Activity_main.xml:
 ```
-
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -162,9 +158,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ## OUTPUT
-
 <img width="357" height="643" alt="image" src="https://github.com/user-attachments/assets/679c9000-54f9-4975-9303-51d18e3c1cfd" />
 
 
